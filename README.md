@@ -1,0 +1,2 @@
+# JobScheduler
+Purpose of this project is to develop a job scheduler such that, whenever the processor becomes free, it will assign to it a job that has been running for the least amount of time so far. This job will run for the smaller of 5ms and the time remaining for its completion. Then the next job is scheduled. The implementation has been done using Min Heap and Red Black Tree data structures.
