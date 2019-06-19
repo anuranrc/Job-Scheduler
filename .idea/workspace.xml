@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fd026a6-5cfe-400b-b8ae-e2d5e168f860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output files/sample_input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output files/sample_input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output files/sample_input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output files/sample_ouput1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output files/sample_output3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job Scheduler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobscheduler/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobscheduler/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobscheduler/RBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobscheduler/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobscheduler/jobscheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Input and Output files/sample_input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Input and Output files/sample_input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Input and Output files/sample_input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Input and Output files/sample_ouput1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Input and Output files/sample_output3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/Job Scheduler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/META-INF/Job Scheduler.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/Job.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/MinHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/RBTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/RBTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/Scheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/jobscheduler/jobscheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Job Scheduler/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jobscheduler/jobscheduler.java">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -79,16 +42,16 @@
         <option value="$PROJECT_DIR$/com/arc/jobscheduler/MinHeap.java" />
         <option value="$PROJECT_DIR$/com/arc/jobscheduler/jobscheduler.java" />
         <option value="$PROJECT_DIR$/jobscheduler/Scheduler.java" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/jobscheduler/jobscheduler.java" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="986" />
-    <option name="y" value="22" />
-    <option name="width" value="2034" />
-    <option name="height" value="1632" />
+    <option name="x" value="1770" />
+    <option name="y" value="18" />
+    <option name="width" value="1386" />
+    <option name="height" value="1944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,6 +67,16 @@
             <path>
               <item name="Job Scheduler" type="b2602c69:ProjectViewProjectNode" />
               <item name="Job Scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Job Scheduler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Job Scheduler" type="462c0819:PsiDirectoryNode" />
+              <item name="Input and Output files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Job Scheduler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Job Scheduler" type="462c0819:PsiDirectoryNode" />
+              <item name="jobscheduler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Job Scheduler" type="b2602c69:ProjectViewProjectNode" />
@@ -124,7 +97,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560969049541" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560970176102" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -176,18 +149,18 @@
       <option name="presentableId" value="Default" />
       <updated>1560966851754</updated>
       <workItem from="1560966855064" duration="746000" />
-      <workItem from="1560967631058" duration="1605000" />
+      <workItem from="1560967631058" duration="2540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2351000" />
+    <option name="totallyTimeSpent" value="3286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="493" y="11" width="1017" height="816" extended-state="0" />
+    <frame x="885" y="9" width="693" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2346194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35433072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -196,7 +169,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2696793" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21971497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,17 +232,17 @@
     <entry file="file://$PROJECT_DIR$/Input and Output files/sample_input1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jobscheduler/jobscheduler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
